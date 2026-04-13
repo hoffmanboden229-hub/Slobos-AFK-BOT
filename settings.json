@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Anarchy-Pg1v.aternos.me",
+    "port": 52652,
+    "version": "1.21"
   },
   "position": {
     "enabled": true,
@@ -51,6 +51,7 @@
       "enabled": true,
       "radius": 4,
       "speed": 3000
+     
     },
     "look-around": {
       "enabled": true,
